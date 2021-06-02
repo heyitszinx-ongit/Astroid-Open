@@ -1,0 +1,8 @@
+C:\Users\Jackson\Desktop\FeqozDevSource\Fortnite\bin\Debug\Fortnite.exe
+C:\Users\Jackson\Desktop\FeqozDevSource\Fortnite\bin\Debug\Fortnite.pdb
+C:\Users\Jackson\Desktop\FeqozDevSource\Fortnite\obj\x64\Debug\Fortnite.csprojAssemblyReference.cache
+C:\Users\Jackson\Desktop\FeqozDevSource\Fortnite\obj\x64\Debug\Fortnite.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Desktop\FeqozDevSource\Fortnite\obj\x64\Debug\Fortnite.exe
+C:\Users\Jackson\Desktop\FeqozDevSource\Fortnite\obj\x64\Debug\Fortnite.pdb
+C:\Users\Jackson\Desktop\FeqozDevSource\Fortnite\Output\Fortnite.exe
+C:\Users\Jackson\Desktop\FeqozDevSource\Fortnite\Output\Fortnite.pdb

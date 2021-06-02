@@ -1,0 +1,2 @@
+FortniteClient-Win64-Shipping_BE.exe
+FortniteClient-Win64-Shipping_EAC.exe
